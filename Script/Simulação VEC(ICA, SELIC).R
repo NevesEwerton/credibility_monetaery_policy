@@ -17,7 +17,7 @@ selic = ts(df.selic$Value, start = 1, end = 96,
            frequency = 1)
 SELIC = rev(selic)
 
-ICa = read_excel("~/Meu Irmãozin Lindo/Monografia/R/Mono.xls", range = 'H2:H98',
+ICa = read_excel("Mono.xls", range = 'H2:H98',
                   col_types = 'numeric')
 ICa = ts(ICa, frequency = 1)
 
