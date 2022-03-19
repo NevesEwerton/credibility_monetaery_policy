@@ -35,6 +35,7 @@ Trajetória da Taxa Selic no período de interesse:
 
 ![grafico1](image/selic_suavizada.png)
 
+![grafico2](image/grafico_expec_inflation.png)
 
 
 
