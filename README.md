@@ -39,6 +39,10 @@ Trajetória das Expectativas de Inflação no período de interesse:
 
 ![grafico2](Image/grafico_expec_inflation.png)
 
+Gráfico de Impulso-Resposta:
+
+![grafico3](Image/Impulso_Resposta_ICA.png)
+
 
 
 
