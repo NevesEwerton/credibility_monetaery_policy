@@ -13,7 +13,7 @@ características dos dados (variáveis de interesse). Fazendo isso, percebemos q
 
 ## Dados
 
-Utilizamos os dados da txa selic e de expectativa de inflação. Para construirmos os índices de credibilidade, utilizamos os dados de expectativa de inflação. Os índices calculados são (i) índice de Cecchetti & Krause, (ii) índice de Mendonça [2007] e , (iii) índice de Sicsú.
+Foi utilizado os dados da taxa selic e de expectativa de inflação. Para construir os índices de credibilidade, foi feito uso dos desvios das expectativas de inflação em relação à meta de inflação, seguindo a metodologia de cada autor. Os índices calculados são (i) índice de Cecchetti & Krause, (ii) índice de Mendonça [2007] e , (iii) índice de Sicsú.
 
 
 ## Pacotes Utilizados
@@ -28,8 +28,6 @@ Foram usados os seguintes pacotes:
 * `het.test`(Testes Estatísticos);
 
 OBS: o pacote `het.test` foi utilizado para realizar o teste de White de Heterocedastricidade, conforme descrito por Doornik (1996). Porém, o pacote não se encontra disponível mais no `CRAN`.
-
-
 
 ## Visualização de dados
 
