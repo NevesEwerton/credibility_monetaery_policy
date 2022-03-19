@@ -31,6 +31,14 @@ OBS: o pacote `het.test` foi utilizado para realizar o teste de White de Heteroc
 
 ## Visualização de dados
 
+Trajetória da Taxa Selic no período de interesse:
+
+![grafico1](image/selic_suavizada.png)
+
+Expectativa de Inflação no período de interesse:
+
+![grafico2](image/grafico_expec_inflation.png)
+
 
 
 
