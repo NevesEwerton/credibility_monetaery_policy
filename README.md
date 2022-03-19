@@ -18,12 +18,20 @@ Utilizamos os dados da txa selic e de expectativa de inflação. Para construirm
 
 ## Pacotes Utilizados
 
-O pacote het.test foi utilizado para fazer o teste De White para checar a existência de heterocedasticidade nos 
-resíduos do modelo VEC.
+Foram usados os seguintes pacotes:
+
+* `ggplot`(Visualização de dados);
+* `Quandl`(Importar dados);
+* `Tidyverse`(Manipulação);
+* `vars`(Modelo Econométrico);
+* `readxl` (Importar dados);
+* `het.test`(Testes Estatísticos);
+
+OBS: o pacote `het.test` foi utilizado para realizar o teste de White de Heterocedastricidade, conforme descrito por Doornik (1996). Porém, o pacote não se encontra disponível mais no `CRAN`.
 
 
 
-## Visuaçização de dados
+## Visualização de dados
 
 
 
