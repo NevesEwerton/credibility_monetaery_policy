@@ -27,7 +27,7 @@ Foram usados os seguintes pacotes:
 * `readxl` (Importar dados);
 * `het.test`(Testes Estatísticos);
 
-OBS: o pacote `het.test` foi utilizado para realizar o teste de White de Heterocedastricidade, conforme descrito por Doornik (1996). Porém, o pacote não se encontra disponível mais no `CRAN`.
+OBS: o pacote `het.test` foi utilizado para realizar o teste de White de Heterocedasticidade, conforme descrito por Doornik (1996). Porém, o pacote não se encontra disponível mais no `CRAN`.
 
 ## Visualização de dados
 
